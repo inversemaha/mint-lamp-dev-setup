@@ -1,6 +1,6 @@
-# Linux Mint PHP Development Setup: Switch PHP Versions 7.2-8.4, Nginx, MySQL, PostgreSQL, MongoDB, Redis — Manual Service Control
+# linuxmint-multidb-webstack
 
-> Manual-control web development stack for Ubuntu — PHP 7.2–8.4, MySQL, Nginx, Composer, PostgreSQL, MongoDB, MongoDB Compass, and Redis.
+Manual-control web development stack for Linux Mint/Ubuntu with multi-database support (MySQL, PostgreSQL, MongoDB, Redis), PHP 7.2–8.4 version switching, Nginx web server, Composer, and service management scripts for local development.
 
 ## Installation
 
